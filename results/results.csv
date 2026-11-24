@@ -1,0 +1,26 @@
+Algorithm,Array_Size,Average_Time_ms,Process_Working_Set_KB,Rank
+Bubble Sort,1000,2.000,3952.00,5
+Selection Sort,1000,1.200,3952.00,4
+Insertion Sort,1000,0.800,3952.00,3
+Merge Sort,1000,0.000,3952.00,1
+Quick Sort,1000,0.200,3952.00,2
+Bubble Sort,5000,52.400,3984.00,5
+Selection Sort,5000,27.400,3984.00,4
+Insertion Sort,5000,16.800,3984.00,3
+Merge Sort,5000,0.800,4000.00,2
+Quick Sort,5000,0.400,4000.00,1
+Bubble Sort,10000,305.200,4040.00,5
+Selection Sort,10000,118.800,4040.00,4
+Insertion Sort,10000,63.000,4040.00,3
+Merge Sort,10000,1.600,4060.00,2
+Quick Sort,10000,1.000,4060.00,1
+Bubble Sort,50000,Skipped,N/A,N/A
+Selection Sort,50000,Skipped,N/A,N/A
+Insertion Sort,50000,Skipped,N/A,N/A
+Merge Sort,50000,8.200,4528.00,2
+Quick Sort,50000,6.200,4528.00,1
+Bubble Sort,100000,Skipped,N/A,N/A
+Selection Sort,100000,Skipped,N/A,N/A
+Insertion Sort,100000,Skipped,N/A,N/A
+Merge Sort,100000,18.200,5104.00,2
+Quick Sort,100000,14.400,5104.00,1
